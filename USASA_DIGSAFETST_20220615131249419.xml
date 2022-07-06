@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<NewDataSet>
+  <delivery>
+    <format_version>1.04.01.8</format_version>
+    <center>USASa</center>
+    <recipient>DIGSAFETST</recipient>
+    <transmission_type>TKT</transmission_type>
+    <transmitted>2022-06-15T13:12:49</transmitted>
+    <seq_num>3216</seq_num>
+    <ticket>A221660665</ticket>
+    <revision>00A</revision>
+  </delivery>
+  <tickets>
+    <ticket>A221660665</ticket>
+    <revision>00A</revision>
+    <created>2022-06-15T13:12:27</created>
+    <account>MIN</account>
+    <channel>100</channel>
+    <work_date>2022-06-17T17:01:00</work_date>
+    <response_required>Y</response_required>
+    <response_due>2022-06-17T17:01:00</response_due>
+    <replace_by_date>2022-07-13T23:59:59</replace_by_date>
+    <expires>2022-07-13T23:59:59</expires>
+    <one_year>N</one_year>
+    <priority>NORM</priority>
+    <type>NEW</type>
+    <category>LREQ</category>
+    <lookup>POLY</lookup>
+    <state>CA</state>
+    <county>RIVERSIDE</county>
+    <place>RANCHO MIRAGE</place>
+    <work_area_zip_codes>92270</work_area_zip_codes>
+    <street>CYPRESS DR</street>
+    <cross1>CLUB VIEW DR</cross1>
+    <caller_gps>
+      <coordinate>
+        <latitude>33.755278</latitude>
+        <longitude>-116.423889</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.754444</latitude>
+        <longitude>-116.425833</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.755278</latitude>
+        <longitude>-116.426667</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.756944</latitude>
+        <longitude>-116.427500</longitude>
+      </coordinate>
+    </caller_gps>
+    <polygon>
+      <coordinate>
+        <latitude>33.754261</latitude>
+        <longitude>-116.425720</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.754239</latitude>
+        <longitude>-116.425858</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.754284</latitude>
+        <longitude>-116.425988</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.755171</latitude>
+        <longitude>-116.426877</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.756865</latitude>
+        <longitude>-116.427727</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.756943</latitude>
+        <longitude>-116.427746</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.757022</latitude>
+        <longitude>-116.427728</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.757115</latitude>
+        <longitude>-116.427637</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.757146</latitude>
+        <longitude>-116.427548</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.757146</latitude>
+        <longitude>-116.427452</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.757116</latitude>
+        <longitude>-116.427363</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.757059</latitude>
+        <longitude>-116.427295</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.755386</latitude>
+        <longitude>-116.426453</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.754703</latitude>
+        <longitude>-116.425770</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.755476</latitude>
+        <longitude>-116.423956</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.755474</latitude>
+        <longitude>-116.423813</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.755435</latitude>
+        <longitude>-116.423729</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.755372</latitude>
+        <longitude>-116.423669</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.755254</latitude>
+        <longitude>-116.423643</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.755178</latitude>
+        <longitude>-116.423673</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.755116</latitude>
+        <longitude>-116.423735</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>33.754261</latitude>
+        <longitude>-116.425720</longitude>
+      </coordinate>
+    </polygon>
+    <how_delineated>WHITEPAINT</how_delineated>
+    <excav_st_walk>N</excav_st_walk>
+    <work_type>INSTALL DRAINAGE, CONTOUR GRADING &amp; REM STUMPS</work_type>
+    <boring>N</boring>
+    <explosives>N</explosives>
+    <vacuum>N</vacuum>
+    <done_for>THUDERBIRD COUNTRY CLUB</done_for>
+    <name>TOTAL TURF GOLF SERVICES</name>
+    <address1>1965 BYBERRY RD</address1>
+    <city>HUNTINGDON VALLEY</city>
+    <cstate>PA</cstate>
+    <zip>19006</zip>
+    <phone>3608307097</phone>
+    <caller>DON HABENICHT</caller>
+    <caller_language>ENGLISH</caller_language>
+    <cell>3608307097</cell>
+    <email>DONH@TOTALTURFSERVICES.COM</email>
+    <contact>DON HABENICHT</contact>
+    <contact_phone>3608307097</contact_phone>
+    <location xml:space="preserve" >S/SIDE OF CYPRESS DR AT APPROX 270FT S/E OF S/E INTER/OF CLUB VIEW DR;   APPROX 440FT S/W OF CYPRESS ST AT APPROX 260FT S/OF S/E INTER/OF CLUB VIEW DR;   APPROX 525FT S/W OF  CYPRESS DR AT APPROX 180FT W/OF N/W INTER OF CLUB VIEW DR;  AT APPROX 245FT S/OF S/END OF FINCHER WAY  **S/END OF FINCHER WAY IS LOC AT APPROX 45FT S/OF COUNTRY CLUB DR**  WITHIN GOLF COURSE AT 70737 COUNTRY CLUB DR</location>
+    <memberlist>
+      <member>CVW85</member>
+      <member>RMIR</member>
+      <member>RMIRELECT</member>
+      <member>RMIRSTDR</member>
+      <member>RMIRWTR</member>
+      <member>SCG1OG</member>
+      <member>UCHTRW_S4</member>
+      <member>USCEDE</member>
+      <member>USCETT84SE</member>
+      <member>UTFTRCA01</member>
+    </memberlist>
+    <map_url>https://newtin.digalert.org/newtinweb/map_tkt.nap?TRG=54DrChOcHlGbIWRRRQM</map_url>
+    <response_url>https://newtin.digalert.org/pos_resp/pr.html?q=1EaObRYPVQbLaAjCZLYAZDZB</response_url>
+    <printable_text xml:space="preserve" >
+DIGSAFETST 03216A USAS 06/15/22 13:12:49 A221660665-00A NEW NORM POLY LREQ
+
+Ticket: A221660665 Rev: 00A Created: 06/15/22 13:12 User: MIN Chan: 100
+
+Work Start: 06/17/22 17:01 Legal Start: 06/17/22 17:01 Expires: 07/13/22 23:59
+Response required: Y Priority: 2
+
+Excavator Information
+Company: TOTAL TURF GOLF SERVICES
+Co Addr: 1965 BYBERRY RD
+City   : HUNTINGDON VALLEY              State: PA Zip: 19006
+Created By: DON HABENICHT                  Language: ENGLISH
+Office Phone: 360-830-7097        SMS/Cell: 360-830-7097
+Office Email: DONH@TOTALTURFSERVICES.COM
+
+Site Contact: DON HABENICHT
+Site Phone: 360-830-7097          Site SMS/Cell:
+Site Email:
+
+Excavation Area
+State: CA County: RIVERSIDE       Place: RANCHO MIRAGE
+Zip: 92270
+Location: Address/Street: CYPRESS DR
+        : X/ST1: CLUB VIEW DR
+        :
+        : S/SIDE OF CYPRESS DR AT APPROX 270FT S/E OF S/E INTER/OF CLUB VIEW DR;
+        : APPROX 440FT S/W OF CYPRESS ST AT APPROX 260FT S/OF S/E INTER/OF CLUB
+        : VIEW DR;   APPROX 525FT S/W OF  CYPRESS DR AT APPROX 180FT W/OF N/W
+        : INTER OF CLUB VIEW DR;  AT APPROX 245FT S/OF S/END OF FINCHER WAY
+        : **S/END OF FINCHER WAY IS LOC AT APPROX 45FT S/OF COUNTRY CLUB DR**
+        : WITHIN GOLF COURSE AT 70737 COUNTRY CLUB DR
+
+Delineated Method: WHITEPAINT
+Work Type: INSTALL DRAINAGE, CONTOUR GRADING &amp; REM STUMPS
+Work For : THUDERBIRD COUNTRY CLUB
+Permit:                                Job/Work order:
+1 Year: N Boring: N Street/Sidewalk: N Vacuum: N Explosives: N
+
+Lat/Long
+Center Generated (NAD83): 33.755429/-116.428465 33.757238/-116.427628
+                        : 33.753559/-116.424422 33.755369/-116.423585
+Excavator Provided: 33.755278/-116.423889 33.754444/-116.425833
+: 33.755278/-116.426667 33.756944/-116.427500
+
+Map link:
+https://newtin.digalert.org/newtinweb/map_tkt.nap?TRG=54DrChOcHlGbIWRRRQM
+
+Post a response to this ticket at:
+https://newtin.digalert.org/pos_resp/pr.html?q=1EaObRYPVQbLaAjCZLYAZDZB
+
+Members:
+CVW85       RMIR        RMIRELECT   RMIRSTDR    RMIRWTR     SCG1OG
+UCHTRW_S4   USCEDE      USCETT84SE  UTFTRCA01
+
+     (c) Copyright 2018 Underground Service Alert of Southern California.
+                             All rights reserved.
+    </printable_text>
+  </tickets>
+</NewDataSet>
+
