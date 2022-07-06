@@ -1,0 +1,28 @@
+<script>
+    const newSize = ['LG','MD','SM','2X','XL','4X','3X']
+    function compareSize(a,b){
+        const leftsize = a.slice(-1) == "X";
+        const rightsize = b.slice(-1) == "X";
+
+        //First compare sizes of array elements having "X" in their value
+        if(leftsize && rightsize){
+            return parseInt(a) - parseInt(b);
+
+        }
+        //  Compare one array element with "X" value with another array value of any size
+        else if(a.slice(-1) == "X"){
+            return 1;
+
+        }
+
+        else if(b.slice(-1)== "X"){
+            return -1;
+        }
+       // Compare any two array elements  without  "X" in their value
+        else{
+            return newSize.indexOf(a) -  newSize.indexOf(b)
+        }
+    }
+   //Sort the array by calling function as a parameter and console the output
+    console.log(['LG','SM','MD','2X','XL','4X','3X','5X'].sort(compareSize))
+</script>
