@@ -1,0 +1,282 @@
+<?xml version="1.0"?>
+<NewDataSet>
+  <delivery>
+    <format_version>1.04.01.8</format_version>
+    <center>USASb</center>
+    <recipient>DIGSAFETST</recipient>
+    <transmission_type>TKT</transmission_type>
+    <transmitted>2022-06-20T18:57:48</transmitted>
+    <seq_num>5916</seq_num>
+    <ticket>B221711065</ticket>
+    <revision>00B</revision>
+  </delivery>
+  <tickets>
+    <ticket>B221711065</ticket>
+    <revision>00B</revision>
+    <created>2022-06-20T18:57:31</created>
+    <account>DIRECT</account>
+    <channel>WEB</channel>
+    <work_date>2022-06-23T07:01:00</work_date>
+    <response_required>Y</response_required>
+    <response_due>2022-06-23T07:01:00</response_due>
+    <replace_by_date>2022-07-18T23:59:59</replace_by_date>
+    <expires>2022-07-18T23:59:59</expires>
+    <one_year>N</one_year>
+    <priority>NORM</priority>
+    <type>NEW</type>
+    <category>LREQ</category>
+    <lookup>POLY</lookup>
+    <state>CA</state>
+    <county>VENTURA</county>
+    <place>VENTURA</place>
+    <work_area_zip_codes>93004</work_area_zip_codes>
+    <st_from_address>202</st_from_address>
+    <st_to_address>202</st_to_address>
+    <street>N SAN MATEO AVE</street>
+    <cross1>LOMA VISTA RD</cross1>
+    <polygon>
+      <coordinate>
+        <latitude>34.286431</latitude>
+        <longitude>-119.187038</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286394</latitude>
+        <longitude>-119.187015</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286355</latitude>
+        <longitude>-119.187002</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286313</latitude>
+        <longitude>-119.186998</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286272</latitude>
+        <longitude>-119.187005</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286233</latitude>
+        <longitude>-119.187021</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286198</latitude>
+        <longitude>-119.187046</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286034</latitude>
+        <longitude>-119.187190</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.285998</latitude>
+        <longitude>-119.187230</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.285971</latitude>
+        <longitude>-119.187279</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.285956</latitude>
+        <longitude>-119.187315</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.285942</latitude>
+        <longitude>-119.187358</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.285935</latitude>
+        <longitude>-119.187402</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.285935</latitude>
+        <longitude>-119.187448</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.285941</latitude>
+        <longitude>-119.187493</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.285955</latitude>
+        <longitude>-119.187535</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.285972</latitude>
+        <longitude>-119.187577</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.285991</latitude>
+        <longitude>-119.187616</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286016</latitude>
+        <longitude>-119.187649</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286045</latitude>
+        <longitude>-119.187677</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286216</latitude>
+        <longitude>-119.187810</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286252</latitude>
+        <longitude>-119.187833</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286291</latitude>
+        <longitude>-119.187846</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286332</latitude>
+        <longitude>-119.187850</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286372</latitude>
+        <longitude>-119.187844</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286411</latitude>
+        <longitude>-119.187829</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286446</latitude>
+        <longitude>-119.187805</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286660</latitude>
+        <longitude>-119.187624</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286691</latitude>
+        <longitude>-119.187592</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286716</latitude>
+        <longitude>-119.187554</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286734</latitude>
+        <longitude>-119.187511</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286745</latitude>
+        <longitude>-119.187464</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286748</latitude>
+        <longitude>-119.187416</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286743</latitude>
+        <longitude>-119.187368</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286731</latitude>
+        <longitude>-119.187322</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286712</latitude>
+        <longitude>-119.187279</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286686</latitude>
+        <longitude>-119.187242</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286654</latitude>
+        <longitude>-119.187212</longitude>
+      </coordinate>
+      <coordinate>
+        <latitude>34.286431</latitude>
+        <longitude>-119.187038</longitude>
+      </coordinate>
+    </polygon>
+    <how_delineated>WHITEPAINT</how_delineated>
+    <excav_st_walk>N</excav_st_walk>
+    <work_type>GROUND ROD INSTALLATION NEAR GAS LINE FEEDING GAS METER</work_type>
+    <boring>N</boring>
+    <explosives>N</explosives>
+    <vacuum>N</vacuum>
+    <done_for>HOMEOWNER</done_for>
+    <name>SESPE POWER SOLUTIONS</name>
+    <address1>2139 SUNKIST DR</address1>
+    <city>SANTA PAULA</city>
+    <cstate>CA</cstate>
+    <zip>93060</zip>
+    <phone>8052939093</phone>
+    <caller>JIM HINKLE</caller>
+    <caller_language>ENGLISH</caller_language>
+    <cell>8054799093</cell>
+    <email>JRHINKLEJR@COMCAST.NET</email>
+    <contact>CURTIS KWAST</contact>
+    <contact_phone>8056510783</contact_phone>
+    <contact_cell>8054799093</contact_cell>
+    <contact_email>curtis@sespepowersolutions.com</contact_email>
+    <location xml:space="preserve" >SIDE OF ADDRESS
+** CALL WITH ETA **</location>
+    <memberlist>
+      <member>ATTDSOUTH</member>
+      <member>SCG4UR</member>
+      <member>UCHTRW_N5</member>
+      <member>USCENC</member>
+      <member>VEN45</member>
+      <member>VEN46DIST</member>
+    </memberlist>
+    <map_url>https://newtin.digalert.org/newtinweb/map_tkt.nap?TRG=72OcNaOTRVWLYGeAe9h</map_url>
+    <response_url>https://newtin.digalert.org/pos_resp/pr.html?q=53GiHlEjBt9n8dHWCYHWDa8Z</response_url>
+    <printable_text xml:space="preserve" >
+DIGSAFETST 05916B USAS 06/20/22 18:57:48 B221711065-00B NEW NORM POLY LREQ
+
+Ticket: B221711065 Rev: 00B Created: 06/20/22 18:57 User: DIRECT Chan: WEB
+
+Work Start: 06/23/22 07:01 Legal Start: 06/23/22 07:01 Expires: 07/18/22 23:59
+Response required: Y Priority: 2
+
+Excavator Information
+Company: SESPE POWER SOLUTIONS
+Co Addr: 2139 SUNKIST DR
+City   : SANTA PAULA                    State: CA Zip: 93060
+Created By: JIM HINKLE                     Language: ENGLISH
+Office Phone: 805-293-9093        SMS/Cell: 805-479-9093
+Office Email: JRHINKLEJR@COMCAST.NET
+
+Site Contact: CURTIS KWAST
+Site Phone: 805-651-0783          Site SMS/Cell: 805-479-9093
+Site Email: curtis@sespepowersolutions.com
+
+Excavation Area
+State: CA County: VENTURA         Place: VENTURA
+Zip: 93004
+Location: Address/Street: 202 N SAN MATEO AVE
+        : X/ST1: LOMA VISTA RD
+        :
+        : SIDE OF ADDRESS
+        : ** CALL WITH ETA **
+
+Delineated Method: WHITEPAINT
+Work Type: GROUND ROD INSTALLATION NEAR GAS LINE FEEDING GAS METER
+Work For : HOMEOWNER
+Permit:                                Job/Work order:
+1 Year: N Boring: N Street/Sidewalk: N Vacuum: N Explosives: N
+
+Lat/Long
+Center Generated (NAD83): 34.286405/-119.187959 34.286861/-119.187374
+                        : 34.285799/-119.187485 34.286255/-119.186901
+Excavator Provided:
+
+Map link:
+https://newtin.digalert.org/newtinweb/map_tkt.nap?TRG=72OcNaOTRVWLYGeAe9h
+
+Post a response to this ticket at:
+https://newtin.digalert.org/pos_resp/pr.html?q=53GiHlEjBt9n8dHWCYHWDa8Z
+
+Members:
+ATTDSOUTH   SCG4UR      UCHTRW_N5   USCENC      VEN45       VEN46DIST
+
+     (c) Copyright 2018 Underground Service Alert of Southern California.
+                             All rights reserved.
+    </printable_text>
+  </tickets>
+</NewDataSet>
+
