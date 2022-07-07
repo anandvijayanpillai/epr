@@ -1,0 +1,29 @@
+<xml>
+  {
+    "timestamp": "2921-09-14T07:44:10z,
+    "webhookNotificationId": 1,
+    "messageVersion": "1.0.0"
+    "message": {
+        "utilityId": 1,
+        "utilityName": "Michigan State Authority",
+        "stationCode": "MSA",
+        "ticketNumber": "2021091401234-001"
+        "sequenceNumber": 12,
+        "requestDate": "2021-09-14T07:44:102"
+        "XMLBase64" : "xxxxxxxxxxxxxxxxxxxxx",
+        "GMLBase64" : "xxxxxxxxxxxxxxxxxxxxx",
+        "GIFBase64" : "xxxxxxxxxxxxxxxxxxxxx"
+     }
+}
+</xml>
+
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/anandvijayanpillai/nw.git
+git push -u origin main
+
+https://usanortheprextrationwebhookfunction.azurewebsites.net/api/UsaNorth_Webhook_Function?code=t06Sc6Q2lI7QxGOq6q8itqXj2l3n2lqNNUz5jexuuI70AzFu7eV3Rg==
